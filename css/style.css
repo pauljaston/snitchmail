@@ -1,0 +1,65 @@
+/* Compiled Less CSS File */
+/* Generated from "style.css" */
+
+/* Less CSS Document */
+/* Will be auto compiled to CSS file on save */
+body {
+  color: #ffffff;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.index {
+  background: url(../../img/broken.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: visible !important;
+}
+.fourohfour {
+  background: url(../../img/broken.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  overflow: visible !important;
+}
+.highlight span {
+  display: inline;
+  padding: 0.45rem;
+  /* Needs prefixing */
+
+  box-decoration-break: clone;
+  -webkit-box-decoration-break: clone;
+}
+.black {
+  background: #000000;
+}
+.white {
+  background: #ffffff;
+  color: #000000;
+}
+h1 {
+  font-size: 55px;
+  line-height: 80px;
+}
+h1 .highlight {
+  padding: 5px 12px;
+}
+h2 {
+  line-height: 50px;
+}
+h2 .highlight {
+  padding: 3px 6px;
+}
+.text-muted {
+  color: #999999;
+}
+.left {
+  float: left;
+}
+.column-text {
+  float: right;
+}
+.last {
+  margin-bottom: 88%;
+}
