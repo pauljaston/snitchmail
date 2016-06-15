@@ -1,6 +1,6 @@
 ## Snitchmail
 Detect if people are inspecting your code and receieve an email (plus some silly stuff)
-[Try it here](https://www.differentsignal.com) - just open the inspector. 
+[Try it here](http://www.differentsignal.com) - just open the inspector. 
 
 ## Synopsis
 
